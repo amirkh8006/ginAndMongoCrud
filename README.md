@@ -67,7 +67,7 @@ Delete User
 
 * **URL**
 
-  http://127.0.0.1:9090/v1/user/update
+  http://127.0.0.1:9090/v1/user/delete/{username}
 
 * **Method:**
 
