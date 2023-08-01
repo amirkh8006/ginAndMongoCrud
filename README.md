@@ -7,7 +7,7 @@
 
 * **URL**
 
-  http://localhost:9090/v1/user/create
+  http://127.0.0.1:9090/v1/user/create
 
 * **Method:**
 
