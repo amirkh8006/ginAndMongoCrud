@@ -1,4 +1,4 @@
-## Go Crud App With Gin & MongoDB	
+## Go Crud App With Gin & MongoDB In MVC Structure
 
 **Run**
  * **$ go run ginMongo**
